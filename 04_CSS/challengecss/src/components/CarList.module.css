@@ -1,0 +1,13 @@
+.carItem {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px 0;
+  }
+  
+  .even {
+    background-color: #f0f0f0;
+  }
+  
+  .odd {
+    background-color: #ffffff;
+  }
